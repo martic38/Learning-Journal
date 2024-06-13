@@ -3,7 +3,7 @@ const viewMore = document.getElementById('view-more')
 
 
 hero.addEventListener("click", function(){
-    document.location.href = './hero-post.html'
+    document.location.href = 'hero-post.html'
 } )
 
 viewMore.addEventListener("click", function(){

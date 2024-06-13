@@ -1,3 +1,6 @@
+import './aboutme.html'
+import './heropost.html'
+
 const hero = document.getElementById('hero')
 const viewMore = document.getElementById('view-more')
 

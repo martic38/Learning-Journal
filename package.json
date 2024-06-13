@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "vite": "latest"
+        "vite": "latest"
   }
 }

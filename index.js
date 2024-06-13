@@ -1,12 +1,13 @@
 import './aboutme.html'
 import './heropost.html'
+import './css/style.css'
 
 const hero = document.getElementById('hero')
 const viewMore = document.getElementById('view-more')
 
 
 hero.addEventListener("click", function(){
-    document.location.href = './heropost.html'
+    document.location.href = 'heropost.html'
 } )
 
 viewMore.addEventListener("click", function(){

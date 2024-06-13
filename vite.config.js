@@ -7,7 +7,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         main: resolve(__dirname, 'aboutme.html'),
-		main: resolve(__dirname, 'hero-post.html'),
+		main: resolve(__dirname, 'heropost.html'),
       },
     },
   },

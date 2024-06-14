@@ -1,6 +1,6 @@
-import './aboutme.html'
-import './heropost.html'
-import './css/style.css'
+// import './aboutme.html'
+// import './heropost.html'
+// import './style.css'
 
 const hero = document.getElementById('hero')
 const viewMore = document.getElementById('view-more')

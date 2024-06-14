@@ -29,7 +29,7 @@ main {
 }
 
 nav {
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
     padding: 0.5em;
     text-transform: uppercase;
     font-weight: bold;
